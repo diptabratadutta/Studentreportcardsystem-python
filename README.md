@@ -1,23 +1,42 @@
 # Studentreportcardsystem-python
-# Problem Statement
-Managing student marks, percentage and grade manually is time consuming and error prone.
-there is a need for a simple system to enter , update and view student report card details efficiently.
 
-# Scope of the project
-The project allows adding student details, storing subject wise marks, calculating total, percentages and grades , updating marks,
-viewing all records. and identifying the class topper. it focuses on basic record management using only core python.
+# OverView of the project
+This project is a menu driven student report card system developed using python 
+It allows user to add students manage subject wise marks update records calculate reports and display the class topper
+The project uses only core python (no external modules ) and demonstrates the use of lists, dictionaries, loops, conditions and functions.
 
-# Target Users
-1. Teachers
-2. School/college staff
-3. Students (to view results )
-4. Anyone needing a simple python based report card system
+# Features
+1. Add New Student
+   Takes roll number, name and subject wise marks.
+   Calculates total percentage and grade automatically
+2. Search Student
+   Display complete details of any student using roll number.
+3. Update Marks
+   Allows updating Marks of a specific subject.
+   Automatically recalculates grade and percentage
+4. Show Class topper
+   Finds the student with the highest percentage.
+5. Display all students
+   Shows complete records of all stored students.
 
-# High Level Features
-1. Add new student with subject wise marks.
-2. Automatic calcuation of total, percentage and grade.
-3. Search student by roll number.
-4. Update marks for any subject.
-5. Display class topper.
-6. Show all student records.
-7. Menu driven, easy to use interface.
+# Technologies Used
+1. Programming Language : Python 3
+2. Libraries : None (only built in python)
+3. IDE : Any (VS Code, IDLE etc)
+   
+# Steps to Install and Run the Project
+1. Install Python : Download and install python 3 from python.org
+2. Create Project FIle : Make a file named student_report.py and paste the project code into it
+3. Open Command prompt and go the folder where the file is saved. (cd folderpath)
+4. Run the program: python student_report.py
+
+# Instructions for testing
+1. Run the program and check if the menu appears.
+2. Add a student (option 1) and confirm the record is saved.
+3. Search for the same roll number (option 2) to verify the details.
+4. Update marks (option 3) and check if total and grade change.
+5. Add multiple students and test the topper feature (option 4).
+6. Use option 5 to display all data.
+7. Exit using option 6.
+   
+      
