@@ -40,7 +40,7 @@ The project uses only core python (no external modules ) and demonstrates the us
 7. Exit using option 6.
    
 # Screenshots
-<img width="572" height="708" alt="image" src="https://github.com/user-attachments/assets/41872811-9573-4e48-83e0-3419fc927a66" />
+<img width="767" height="282" alt="image" src="https://github.com/user-attachments/assets/cdf487b5-1630-4073-a7ca-818d9e079806" />
 <img width="569" height="645" alt="image" src="https://github.com/user-attachments/assets/6cf02e27-b8e6-4c1a-8923-703f0007751c" />
 <img width="568" height="669" alt="image" src="https://github.com/user-attachments/assets/1fe24fe3-f7a1-474c-a805-b5e5305060b3" />
 
